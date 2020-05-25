@@ -1,0 +1,3 @@
+rootProject.name='Dynamic Application'
+include ':app'
+include ':dynamictest'
