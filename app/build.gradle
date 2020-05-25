@@ -27,6 +27,18 @@ android {
     }
 
     dynamicFeatures = [":dynamictest"]
+
+    bundle {
+        language {
+            enableSplit = false
+        }
+        density {
+            enableSplit = true
+        }
+        abi {
+            enableSplit = true
+        }
+    }
 }
 
 dependencies {

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">主应用</string>
+    <string name="text_message">难说再见!</string>
+    <string name="text_message_dynamic">动态部分界面!</string>
+    <string name="title_dynamictest">Dynamic Test</string>
+    <string name="app_name_dynamic">动态应用</string>
+</resources>

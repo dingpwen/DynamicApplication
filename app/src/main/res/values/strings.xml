@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">Dynamic Application</string>
+    <string name="app_name">Base activity</string>
+    <string name="text_message">Say:Hello World!</string>
+    <string name="text_message_dynamic">Dynamic Interface!</string>
     <string name="title_dynamictest">Dynamic Test</string>
+    <string name="app_name_dynamic">Dynamic activity</string>
 </resources>

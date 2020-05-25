@@ -97,6 +97,7 @@ public class MainActivity extends AppCompatActivity {
     };
 
     private void requestDynamicInstall() {
+        makeToast("Starting to download " + DYNAMIC_MODULE);
         FeatureInstallRequest request = FeatureInstallRequest.newBuilder()
                 // 添加dynamic feature 的名称
                 .addModule(DYNAMIC_MODULE)

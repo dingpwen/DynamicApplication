@@ -14,7 +14,7 @@
     </dist:module>
 
     <application>
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" android:label="@string/app_name_dynamic"></activity>
     </application>
 
 </manifest>
